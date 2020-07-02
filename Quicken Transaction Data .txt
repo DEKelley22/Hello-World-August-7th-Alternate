@@ -1,0 +1,440 @@
+,2/17/2020,DEK PayPal Checking,,Paypal,Mikie payment for Fund Raisers Qty 2,[Fidelity Cash Mgmt],,,-20.00
+,3/2/2020,DEK PayPal Checking,,Crew 1716,Coverage for Mikie,[InT 20-30 Chking],,,20.00
+,1/6/2020,Fidelity Brokerage-Running Cash Account for Investment and Living,,Various Monies,Verify EFT Acct Setup,[InT 20-30 Chking],,,-45.00
+,2/23/2020,Fidelity Brokerage-Running Cash Account for Investment and Living,,Various Monies,Trans # H00052887500 Coverage for Scheduled,[Fidelity Cash Mgmt],,,-525.00
+,4/4/2020,Fidelity Brokerage-Running Cash Account for Investment and Living,W-Draw,Various Monies,TRans # H00055823361 Consolidation for new Car Cash,[Fidelity Cash Mgmt],,,"-3,250.00"
+,1/6/2020,Fidelity Cash Mgmt-Checking at Fidelity,,Opening Balance,,[Fidelity Cash Mgmt],,R,0.00
+,1/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,,Various Monies,Opening New Account,[InT 20-30 Chking],,R,40.00
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,AAA M/C ACG w US Bank,Trans #PX678-GC5SC Test of new Bill Pay option,[1 AAA MC 9228 US Bank],,R,-2.00
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,City Of Troy,Trans # PX678-GCF14 Test of new Bill Pay option,Utilities:Water,,R,-1.37
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,COMCAST,Trans # PX678-GCK0K Test of new Bill Pay option,Cable TV,,R,-1.75
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,ConsumerS ENERGY,Trans # PX678-GCMBS Test of new Bill Pay option,Utilities:Gas & Electric,,R,-2.15
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,DTE ENERGY,Trans # PX678-GCPQK Test of new Bill Pay option,Utilities:Gas & Electric,,R,-1.55
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Fidelity Investments - VISA,Trans # PX678-GCSRK Test of new Bill Pay option,[x Fidelity Visa 7850],,R,-2.75
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,US Bank Home Mortgage    270-69,Trans # PX678-GCWPK Test of new Bill Pay option,Mortgage,,R,-1.33
+,1/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Verizon,Trans # PX678-GCZC0 Test of new Bill Pay option,Telephone,,R,-1.45
+,1/13/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,GM ACG Capital M/C,Trans # PX678-KY384 Test of new Bill Pay option,[2 GM MC 5064 Capital One],,R,-2.50
+,1/28/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Various Monies,Took a week to move from InT to FCM & $5.00,[InT 14-32 Chking],,R,"3,900.00"
+,1/31/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,CMA Interest,January CMA monthly interest,College:Nathan's,,R,0.19
+,2/4/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,COMCAST,Trans # PZ9G6-3J376  Due 2/11/2020,Cable TV,,R,-259.10
+,2/4/2020,Fidelity Cash Mgmt-Checking at Fidelity,W-Draw      S,Various  Monies,Envelop money Test of FCM debit card,--Split--,--Split--,R,-23.00
+,2/5/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Various Monies,FCA ATM reimbursement,Food:Outside Home,,R,3.00
+,2/5/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,ConsumerS ENERGY,Trans # Hxxxxxx Due 2/5/2020,Utilities:Gas & Electric,,R,-128.51
+,2/6/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,ConsuMER'S ENERGY,Trans # PZ9GQ-677JY Due 2/12//2020,Utilities:Gas & Electric,,R,-128.51
+,2/6/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Gerotech I3 Repayment,Repay for Haas Drawbar purchase Mobile Dep App,Charity:I 3 Cooperative,,R,425.00
+,2/7/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,City Of Troy,Trans # PZ9G6-8J376 Due 2/15/2020,Utilities:Water,,R,-115.42
+,2/7/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,The GM Mastercard,Trans # PZ9GH-64VGP Due 2/15/2020,[2 GM MC 5064 Capital One],,R,"-2,786.24"
+,2/7/2020,Fidelity Cash Mgmt-Checking at Fidelity,1001,Dr Joseph Robertson,cleaning and checkup,Medical:Medicare-Medigap & Rx,,R,-120.60
+,2/11/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Washington Sleep Clinic,Refund for double payment Me & Medicare,Medical:Medicare-Medigap & Rx,,R,104.65
+,2/17/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Paypal,Mikie payment for Fund Raisers Qty 2,[DEK PayPal Checking],,R,20.00
+,2/20/2020,Fidelity Cash Mgmt-Checking at Fidelity,1002,Stephen E Bishop,Sara Corrie Grant supplement JCP Re-Rig Project,Charity:Cash Contrib.,,R,-115.00
+,2/20/2020,Fidelity Cash Mgmt-Checking at Fidelity,1003,Primary Eye Care,eye exam Karen,Medical:Medicare-Medigap & Rx,,R,-108.78
+,2/20/2020,Fidelity Cash Mgmt-Checking at Fidelity,1004,Dr. M Wael Al-Amirie,Office visit,Medical:Medicare-Medigap & Rx,,R,-7.24
+,2/23/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Various Monies,Trans # H00052887500 Coverage for Scheduled,[Fidelity Brokerage],,R,525.00
+,2/25/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,US Bank Home Mortgage    270-69,Trans # Q1QYH-XRTS4  Due 3/1-3/15,Mortgage,,R,-596.92
+,2/25/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Verizon,Trans #  Q1QYH-XRJPS  Due 4/1/16,Telephone,,R,-176.06
+,2/26/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Fidelity Monthly Living,2/1/2020,[Fidelity DEK Rollover IRA Managed],,R,"4,000.00"
+,2/28/2020,Fidelity Cash Mgmt-Checking at Fidelity,W-Draw      S,Various Monies,Envelope Money  Expect a reimbursement,--Split--,--Split--,R,-43.25
+,2/28/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,CMA Interest,CMA account interest February,College:Nathan's,,R,1.70
+,3/2/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,AAA M/C ACG w US Bank,Trans #Q213N-850RV Due 3/9/20 March Envelope,[1 AAA MC 9228 US Bank],,R,"-1,085.50"
+,3/2/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,DTE ENERGY,Trans # Q213N-85CL2 Due 3/9/20,Utilities:Gas & Electric,,R,-76.75
+,3/2/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Debit Card Cash,Reimbursement for use of Debit Card for Cash,Bank Charges,,R,3.25
+,3/5/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,ConsuMER'S ENERGY,Trans # Q213N-85GF1 Due 3/12/2020,Utilities,,R,-11.81
+,3/6/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Fidelity Investments - VISA,Trans # Q213N-85JXF Due 3/15/20,[x Fidelity Visa 7850],,R,-629.09
+,3/6/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,COMCAST,Trans # Q2CRH-1L948   Due 3/13/20,Cable TV,,R,-260.85
+,3/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Medicare Reimbursement,Trans #7799266 reimbursement for Overpayment to Start SocialS.,Medical:Medicare-Medigap & Rx,,R,271.00
+,3/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Gm Mastercard,Trans # Q213N-85LYG  Due 3/17/2020,[2 GM MC 5064 Capital One],,R,-870.12
+,3/14/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Various Monies,Coverage for Auto Loan,[Fidelity DEK Rollover IRA Managed],,R,"18,000.00"
+,3/19/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Trust Expense March Trip,includes 2019 TurboTax Business for the Trust,BGK Trust:Trust Travel & Meetings,,R,941.76
+,3/24/2020,Fidelity Cash Mgmt-Checking at Fidelity,1005,EnvisionRxPlus,Due 4/14 for 3 months next due 7/14,Medical:EnvisionRxPlus,,R,-42.60
+,3/25/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Verizon,Trans # Q4S3B-R10HL  Due 4/1/2020,Telephone,,R,-176.06
+,3/26/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFRx,Fidelity Monthly Living,Regular distribution from Fidelity Managed DEK IRA,[Fidelity DEK Rollover IRA Managed],,R,"4,000.00"
+,3/26/2020,Fidelity Cash Mgmt-Checking at Fidelity,S,US Bank Mortgage,Trans # Q4S3B-R0RLY  Due 4/1/2020,--Split--,--Split--,R,-596.92
+,3/27/2020,Fidelity Cash Mgmt-Checking at Fidelity,W-Draw      S,Various Monies,Service Charge 3.25 to be reversed by FCM,--Split--,--Split--,R,-83.25
+,3/27/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Various Monies,Reimbursement of ATM Fees,Food:Outside Home,,R,3.25
+,3/31/2020,Fidelity Cash Mgmt-Checking at Fidelity,W-Draw,US Postal Service,Stamps for Nathan's Humbolt paperwork Debit,Household:Supplies,,R,-8.00
+,3/31/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,CMA Interest,March CMA Interest,College:Nathan's,,R,3.09
+,4/1/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,DTE ENERGY,Trans # Q4S3B-R0MMN  Due 4/8/20202,Utilities:Gas & Electric,,R,-75.73
+,4/2/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,AAA M/C ACG w US Bank,Trans #Q4S3B-R067M Due 4/9/2020,[1 AAA MC 9228 US Bank],,R,"-1,229.18"
+,4/3/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Xfinity,Trans # Q5M7S-HSM28 Due 4/11/2020,Cable TV,,R,-260.85
+,4/4/2020,Fidelity Cash Mgmt-Checking at Fidelity,,Various Monies,TRans # H00055823361 Consolidation for new Car Cash,[Fidelity Brokerage],,R,"3,250.00"
+,4/4/2020,Fidelity Cash Mgmt-Checking at Fidelity,1006,Sharon Bledsoe,March WFA course Food,Charity,,R,-286.55
+,4/6/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,ConsumerS ENERGY,Trans # Q535M-H44BM Due 4/13/2020,Utilities:Gas & Electric,,R,-133.12
+,4/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Fidelity Investments - VISA,Trans # Q4S3B-R0MMN Due 4/15/2020,[x Fidelity Visa 7850],,R,-352.69
+,4/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Various Monies,Trans # 1263398667 Consolidation  of Cash,[InT 14-32 Chking],,R,"5,000.00"
+,4/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Gm Mastercard,Trans # Q4S3B-R0PQN   Due 4/15/2020,[2 GM MC 5064 Capital One],,R,-384.08
+,4/10/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Various Monies,Trans # 1169701077 Consolidation of Cash,[InT 14-32 Chking],,R,"4,999.99"
+,4/12/2020,Fidelity Cash Mgmt-Checking at Fidelity,1007,Hart Medical Lockbox,,Medical:Medicare-Medigap & Rx,,R,-83.15
+,4/15/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Social Security Annuity,1st Direct Deposit to this FCM account,Social Security Annuity,,R,"3,311.00"
+,4/25/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Fidelity Monthly Living,Current annuity type distribution,[Fidelity DEK Rollover IRA Managed],,R,"4,000.00"
+,4/27/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT         S,US Bank Mortgage,Trans #Q7YQT-846VQ Due 5/1-15/2020,--Split--,--Split--,R,-596.92
+,4/27/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Verizon,Trans #Q7YQP-F81F2 Due 5/15/2020,Telephone,,R,-175.68
+,4/30/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Beaumont Health Systems,Refund Return for Karen,Medical:Medicare-Medigap & Rx,,R,196.32
+,4/30/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,CMA Interest,April CMA monthly interest,College:Nathan's,,R,0.31
+,5/1/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,DTE ENERGY,Trans #Q8DPW-DL83K Due 5/8/2020,Utilities:Gas & Electric,,R,-70.64
+,5/4/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,AAA M/C ACG w US Bank,Trans # Q8DPD-QLFYC   Due 5/09/2020,[1 AAA MC 9228 US Bank],,R,"-1,221.47"
+,5/5/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,Xfinity,Trans # Q8JYX-8QZ09 Due 5/12/2020,Cable TV,,R,-260.71
+,5/7/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,ConsumerS ENERGY,Trans # Q8DPR-VSBT1   Due 6/19/2019,Utilities:Gas & Electric,,R,-93.79
+,5/7/2020,Fidelity Cash Mgmt-Checking at Fidelity,1008,CMS Medicare,Payment every 3 months,Insurance:Medical Insurance:CMS Medicare,,,-433.80
+,5/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Fidelity Investments - VISA,Trans # Q8DPZ-MPSBW Due 5/15/2020,[3 Fidelity VISA 2194 US Bank],,R,"-1,583.36"
+,5/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,TXFR,Gm Mastercard,Trans # Q8DPJ-QK7Q6   Due 5/17/2020,[2 GM MC 5064 Capital One],,R,"-2,015.20"
+,5/8/2020,Fidelity Cash Mgmt-Checking at Fidelity,EFT,City Of Troy,Trans # Q8DPN-B99TW  Due 5/15/2017,Utilities:Water,,R,-100.00
+,5/16/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,The hartford,Insurance refund for reduced risk,Auto:Maintenance,,R,60.13
+,5/17/2020,Fidelity Cash Mgmt-Checking at Fidelity,W-Draw      S,Various Monies,cash envelope at the house,--Split--,--Split--,,-183.25
+,5/17/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Various Monies,reimburse atm fees,Bank Charges,,,3.25
+,5/20/2020,Fidelity Cash Mgmt-Checking at Fidelity,DEP,Social Security Services,On or about the 3rd Wednesday January 2020 was on the 15th,Social Security Annuity,,,"3,311.00"
+,1/24/2020,InT 06-32 Chking Q-Alt-Alternate Checking Account,,Various Monies,Trans # 91417745,[InT 14-01 Savings],,,425.00
+,3/4/2020,InT 06-32 Chking Q-Alt-Alternate Checking Account,,Various Monies,Coverage,[InT 14-01 Savings],,,300.00
+,1/8/2020,InT 14-01 Savings-Joint Savings Acct.,TXFR,Various Monies,,[InT 20-30 Chking],,R,"-1,100.00"
+,1/15/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Trans # 90881118,[InT 14-32 Chking],,R,"3,000.00"
+,1/24/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Moinies,Trans # 9147088x,[InT 14-32 Chking],,R,"-4,100.00"
+,1/24/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Trans # 91417305B Coverage for Paypal,[InT 20-30 Chking],,R,"-1,600.00"
+,1/24/2020,InT 14-01 Savings-Joint Savings Acct.,TXFR,Various Monies,Trans # 91417745,[InT 06-32 Chking Q-Alt],,R,-425.00
+,1/24/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Trans # Unk,[InT 14-32 Chking],,R,"1,055.00"
+,1/24/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Coverage for Auto Insurance,[InT 20-30 Chking],,R,-955.00
+,1/31/2020,InT 14-01 Savings-Joint Savings Acct.,EFT,INTERest Earned,February 2016 Savings Interest,College:Nathan's,,R,0.49
+,2/25/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Storage to shifting accounts,[InT 14-32 Chking],,R,"3,100.00"
+,2/25/2020,InT 14-01 Savings-Joint Savings Acct.,TXFR,Various Monies,Trans # 93389394  Coverage,[InT 20-30 Chking],,R,"-1,100.00"
+,2/29/2020,InT 14-01 Savings-Joint Savings Acct.,DEP,INTERest Earned,February 2020 Savings Interest,College:Nathan's,,R,0.34
+,3/4/2020,InT 14-01 Savings-Joint Savings Acct.,,Nathan PayPal,March coverage,[InT 20-30 Chking],,R,"-1,100.00"
+,3/4/2020,InT 14-01 Savings-Joint Savings Acct.,TXFR,Various Monies,Trans # 107968008 Coverage,[InT 06-32 Chking Q-Alt],,R,-300.00
+,3/8/2020,InT 14-01 Savings-Joint Savings Acct.,,Variious Monies,Trans # 108242529,[InT 14-32 Chking],,R,"1,500.00"
+,3/19/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,,[InT 14-32 Chking],,R,"3,211.00"
+,3/31/2020,InT 14-01 Savings-Joint Savings Acct.,DEP,INTERest Earned,March 2020 Savings Interest,College:Nathan's,,R,0.48
+,4/4/2020,InT 14-01 Savings-Joint Savings Acct.,TXFR,Various Moinies,Trans # 109988429 Coverage,[InT 14-32 Chking],,R,"-7,250.00"
+,4/7/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Trans # sssssssss Coverage,[InT 14-32 Chking],,R,"-3,750.00"
+,4/10/2020,InT 14-01 Savings-Joint Savings Acct.,,Various Monies,Trans #110370220,[InT 14-32 Chking],,R,"1,010.00"
+,4/30/2020,InT 14-01 Savings-Joint Savings Acct.,DEP,INTERest Earned,April 2020 Savings Interest,College:Nathan's,,R,0.19
+,5/6/2020,InT 14-01 Savings-Joint Savings Acct.,,Covid-19 Federal Money,Hold in Savings,[InT 20-30 Chking],,,"2,395.00"
+,1/2/2020,InT 14-32 Chking,TXFR,Aaa Financial VISA,Trans #PVFNX-7WCQD Due 1/9/2020,[1 AAA MC 9228 US Bank],,R,"-1,348.21"
+,1/2/2020,InT 14-32 Chking,EFT,DTE ENERGY,Trans # PVFNX-7X0QH  Due 4/10/16,Utilities:Gas & Electric,,R,-98.97
+,1/2/2020,InT 14-32 Chking,,HP EDS Pension,,Salary:HP EDS Pension,,R,269.76
+,1/3/2020,InT 14-32 Chking,EFT,ConsumerS ENERGY,Trans # PVHC8-H2RQY  Due 1/10/2019,Utilities:Gas & Electric,,R,-116.52
+,1/3/2020,InT 14-32 Chking,,Xfinity Comcast,Trans # PW6DH-92ZQL Due 1/11/2020,Cable TV,,R,-261.13
+,1/3/2020,InT 14-32 Chking,,Fund 014-30 with Fidelity Balance,,[Fidelity DEK Rollover IRA Non-Managed],,R,0.09
+,1/8/2020,InT 14-32 Chking,TXFR,Fidelity Investments - VISA,Trans # PVFNX-7X2HS due 1/15/2020,[x Fidelity Visa 7850],,R,-683.72
+,1/10/2020,InT 14-32 Chking,TXFR,Gm Mastercard,Trans # PVFNX-7WX2D Due 1/17/2020,[2 GM MC 5064 Capital One],,R,"-1,151.51"
+,1/14/2020,InT 14-32 Chking,W-Draw,Social Security Services Monthly,First Check   less Medicare,Social Security Annuity,,R,"3,311.00"
+,1/15/2020,InT 14-32 Chking,TXFR,Various Monies,Trans # 90881118,[InT 14-01 Savings],,R,"-3,000.00"
+,1/24/2020,InT 14-32 Chking,,Monthly,,[Fidelity DEK Rollover IRA Managed],,R,"4,000.00"
+,1/24/2020,InT 14-32 Chking,TXFR,Various Moinies,Trans # 9147088x,[InT 14-01 Savings],,R,"4,100.00"
+,1/24/2020,InT 14-32 Chking,TXFR,Various Monies,Trans # 91436020 Excess transfer earlier today,[InT 14-01 Savings],,R,"-1,055.00"
+,1/27/2020,InT 14-32 Chking,EFT         S,US Bank Mortgage,Trans # PYPHZ-ZS0T2 Due 2/1/20,--Split--,--Split--,R,-596.92
+,1/27/2020,InT 14-32 Chking,EFT,Verizon,Trans #PYPHZ-ZSZTR   Due 2/1/20,Telephone,,R,-174.61
+,1/28/2020,InT 14-32 Chking,TXFR        S,Various Monies,Trans # 1085205193    Moving money,--Split--,--Split--,R,"-3,905.00"
+,1/30/2020,InT 14-32 Chking,,HP EDS Pension,,Salary:HP EDS Pension,,R,269.76
+,1/31/2020,InT 14-32 Chking,EFT,DTE ENERGY,Trans # PYPJJ-65PS3  Due 2/7/20,Utilities:Gas & Electric,,R,-76.26
+,1/31/2020,InT 14-32 Chking,DEP,INTERest Earned,February 2016 Savings Interest,College:Nathan's,,R,0.02
+,1/31/2020,InT 14-32 Chking,,Balance Adjustment,,,,R,0.09
+,2/3/2020,InT 14-32 Chking,TXFR,AAA Acg M/C US Bank,Trans # PYPJJ-651DL Due 2/12/2020,[1 AAA MC 9228 US Bank],,R,-863.82
+,2/7/2020,InT 14-32 Chking,TXFR,Fidelity Investments - VISA,Trans # PYPJJ-65WTP Due 2/10/2020,[x Fidelity Visa 7850],,R,"-1,068.96"
+,2/19/2020,InT 14-32 Chking,W-Draw,Social Security Services  - Monthly,Second  Check   less Medicare,Social Security Annuity,,R,"3,311.00"
+,2/25/2020,InT 14-32 Chking,TXFR,Various Monies,Trans #93389125 Storage to shifting accounts,[InT 14-01 Savings],,R,"-3,100.00"
+,2/28/2020,InT 14-32 Chking,,HP EDS Pension,,Salary:HP EDS Pension,,R,269.76
+,2/29/2020,InT 14-32 Chking,DEP,INTERest Earned,February 2020 Checking Interest,College:Nathan's,,R,0.02
+,3/8/2020,InT 14-32 Chking,TXFR,Variious Monies,Trans # 108242529,[InT 14-01 Savings],,R,"-1,500.00"
+,3/18/2020,InT 14-32 Chking,DEP,Social Security Services - Monthly,On or about the 3rd Wednesday January 2020 was on the 15th,Social Security Annuity,,R,"3,311.00"
+,3/19/2020,InT 14-32 Chking,TXFR,Various Monies,Trans # 10898107 Coverage,[InT 14-01 Savings],,R,"-3,211.00"
+,3/31/2020,InT 14-32 Chking,DEP,INTERest Earned,March 2020 Checking,College:Nathan's,,R,0.01
+,4/2/2020,InT 14-32 Chking,DEP,HP EDS Pension,,Salary:HP EDS Pension,,R,269.76
+,4/4/2020,InT 14-32 Chking,,Various Moinies,Trans # xxxxxxxx Coverage,[InT 14-01 Savings],,R,"7,250.00"
+,4/7/2020,InT 14-32 Chking,TXFR,Various Monies,Trans # sssssssss Coverage,[InT 14-01 Savings],,R,"3,750.00"
+,4/8/2020,InT 14-32 Chking,TXFR        S,Various Monies,,--Split--,--Split--,R,"-5,005.00"
+,4/10/2020,InT 14-32 Chking,TXFR        S,Various Monies,Consolidation of Cash for Purchase,--Split--,--Split--,R,"-5,006.49"
+,4/10/2020,InT 14-32 Chking,TXFR,Various Monies,Trans #110370220,[InT 14-01 Savings],,R,"-1,010.00"
+,4/30/2020,InT 14-32 Chking,DEP,INTERest Earned,February 2016 Savings Interest,College:Nathan's,,R,0.02
+,4/30/2020,InT 14-32 Chking,W-Draw,Bank Fee,Overdraft 3.73,Bank Charges,,R,-6.95
+,5/2/2020,InT 14-32 Chking,,HP EDS Pension,,Salary:HP EDS Pension,,,269.76
+,5/7/2020,InT 14-32 Chking,EFT,City Of Troy,Trans #Q9B75-X5L6Y Due 5/16/2020,Utilities:Water,,,-16.79
+,1/1/2020,InT 20-30 Chking,,Checking -020 Coverage For PayPal To I3,,Charity:I 3 Cooperative,,R,-49.00
+,1/1/2020,InT 20-30 Chking,EFT,Colonial Penn,Monthly Medicare Supplement,Insurance:Medical Insurance:Colonial Penn Medigap Plan N,,R,-168.44
+,1/2/2020,InT 20-30 Chking,,General Electric Pension,,Salary:GE Pension,,R,404.10
+,1/2/2020,InT 20-30 Chking,,Priority Health Medigap,,Insurance:Medical Insurance:Priority Medigap Plan N,,R,-94.00
+,1/2/2020,InT 20-30 Chking,,Nathan PayPal,Trans # 201154474E438972M 12/30/2019 cplt'd,Gifts,,R,"-1,554.99"
+,1/6/2020,InT 20-30 Chking,TXFR,Various Monies,Verify EFT Acct Setup,[Fidelity Brokerage],,R,45.00
+,1/7/2020,InT 20-30 Chking,EFT,Paypal Tolga Bat Hospital,2020 Donation 65 AU$,Charity:Cash Contrib.,,R,-47.26
+,1/8/2020,InT 20-30 Chking,TXFR,Various Monies,Verify EFT Acct Setup,[Fidelity Cash Mgmt],,R,-40.00
+,1/8/2020,InT 20-30 Chking,2729,Affinion Benefiits Group,formerly CUNA for AD&D $300K,Insurance:Accidental Insurance:Accidental Death,,R,-180.00
+,1/8/2020,InT 20-30 Chking,,Various Monies,Trans # 90461106,[InT 14-01 Savings],,R,"1,100.00"
+,1/14/2020,InT 20-30 Chking,2730,Noga & Associates,1 session 1/14/20 session,Medical:Medicare-Medigap & Rx,,R,-155.00
+,1/24/2020,InT 20-30 Chking,TXFR,Various Monies,Trans # 91417305 Coverage for Paypal,[InT 14-01 Savings],,R,"1,600.00"
+,1/24/2020,InT 20-30 Chking,2731,The hartford,Accident Insurance Payment,Insurance:Auto Insurance,,R,"-1,206.95"
+,1/24/2020,InT 20-30 Chking,TXFR,Various Monies,Trans # 91435729 Coverage for Auto Insurance,[InT 14-01 Savings],,R,955.00
+,1/25/2020,InT 20-30 Chking,EFT,Nathan Paypal,Trans #55B78022f36399939,Gifts,,R,"-1,490.99"
+,1/28/2020,InT 20-30 Chking,2732,Noga & Associates,1 session 1/28 session,Medical:Un-reimbursed,,R,-155.00
+,1/30/2020,InT 20-30 Chking,2733,Tortoise & Hare,Karen,Haircut,,R,-65.00
+,1/30/2020,InT 20-30 Chking,W-Draw,Various  Monies,Envelop money,Food:Outside Home,,R,-120.00
+,2/1/2020,InT 20-30 Chking,,Checking -020 Coverage For PayPal To I3,I3 monthly fees,Charity:I 3 Cooperative,,R,-49.00
+,2/1/2020,InT 20-30 Chking,EFT,Colonial Penn,Monthly Medicare Supplement,Insurance:Medical Insurance:Colonial Penn Medigap Plan N,,R,-168.44
+,2/2/2020,InT 20-30 Chking,,General Electric Pension,,Salary:GE Pension,,R,404.10
+,2/2/2020,InT 20-30 Chking,,Priority Health Medigap,,Insurance:Medical Insurance:Priority Medigap Plan N,,R,-94.00
+,2/7/2020,InT 20-30 Chking,2734,CMS Medicare,Payment every 3 months,Insurance:Medical Insurance:CMS Medicare,,R,-452.00
+,2/25/2020,InT 20-30 Chking,2735,Noga & Associates,2 Sessions   2/25/20 & 2/18,Medical:Medicare-Medigap & Rx,,R,-310.00
+,2/25/2020,InT 20-30 Chking,,Various Monies,Trans # 93389394  Coverage,[InT 14-01 Savings],,R,"1,100.00"
+,2/26/2020,InT 20-30 Chking,2736,Lavida Massage Troy,79.95,Medical:Un-reimbursed,,R,-79.95
+,2/29/2020,InT 20-30 Chking,,Colonial Penn,,Insurance:Medical Insurance:Colonial Penn Medigap Plan N,,R,-168.44
+,3/1/2020,InT 20-30 Chking,,Checking -020 Coverage For PayPal To I3,,Mad Money:Dave's Mad,,R,-49.00
+,3/2/2020,InT 20-30 Chking,,General Electric Pension,,Salary:GE Pension,,R,404.10
+,3/2/2020,InT 20-30 Chking,,Priority Health Medigap,,Insurance:Medical Insurance:Priority Medigap Plan N,,R,-94.00
+,3/2/2020,InT 20-30 Chking,2737,Voided,,Descretionary,,R,0.00
+,3/2/2020,InT 20-30 Chking,2738,Crew 1716,Coverage for Mikie,[DEK PayPal Checking],,R,-20.00
+,3/4/2020,InT 20-30 Chking,TXFR,Nathan PayPal,Trans # 107920727 March coverage,[InT 14-01 Savings],,R,"1,100.00"
+,3/5/2020,InT 20-30 Chking,EFT,Nathan PayPal,Trans # 2LC62074S1263910 March support,Gifts,,R,"-1,227.98"
+,3/10/2020,InT 20-30 Chking,2739,Noga & Associates,1 session 3/10/2020,Medical:Un-reimbursed,,R,-155.00
+,3/31/2020,InT 20-30 Chking,,Colonial Penn,,Insurance:Medical Insurance:Colonial Penn Medigap Plan N,,R,-168.44
+,4/1/2020,InT 20-30 Chking,,Checking -020 Coverage For PayPal To I3,,Mad Money:Dave's Mad,,R,-49.00
+,4/2/2020,InT 20-30 Chking,DEP,General Electric Pension,,Salary:GE Pension,,R,404.10
+,4/2/2020,InT 20-30 Chking,,Priority Health Medigap,,,,R,-94.00
+,4/6/2020,InT 20-30 Chking,EFT,EnvisonRxPlus,Monthly Auto W/D Karen,Insurance:Medical Insurance:EnvisionRxPlus 2018,,R,-14.20
+,4/30/2020,InT 20-30 Chking,W-Draw,Bank Fee,Bill Pay Inactivity fee,Bank Charges,,R,-6.95
+,5/1/2020,InT 20-30 Chking,,General Electric Pension,,Salary:GE Pension,,,404.10
+,5/1/2020,InT 20-30 Chking,,Colonial Penn,,Insurance:Medical Insurance:Colonial Penn Medigap Plan N,,,-198.38
+,5/1/2020,InT 20-30 Chking,,Checking -020 Coverage For PayPal To I3,,Mad Money:Dave's Mad,,,-49.00
+,5/2/2020,InT 20-30 Chking,,Priority Health Medigap,,,,,-94.00
+,5/6/2020,InT 20-30 Chking,,EnvisonRxPlus,Auto W/D  monthly  payment Karen,Insurance:Medical Insurance:EnvisionRxPlus 2018,,,-14.20
+,5/6/2020,InT 20-30 Chking,,Covid-19 Federal Money,Estimated Distribution directly from IRS to InTouch CU,Tax:Federal,,,"2,400.00"
+,5/6/2020,InT 20-30 Chking,,Covid-19 Federal Money,Trans # 113130828  Hold in Savings,[InT 14-01 Savings],,,"-2,395.00"
+,1/2/2020,1 AAA MC 9228 US Bank,,Aaa Financial VISA,Trans #xxxxxx 1/9/2020,[InT 14-32 Chking],,R,"1,348.21"
+,1/2/2020,1 AAA MC 9228 US Bank,,Meijer,55432860001200776119236; 05411;,Food:Groceries,,R,-47.42
+,1/6/2020,1 AAA MC 9228 US Bank,,Meijer,55432860004200543427687; 05411;,Charity:Scouts Crew & Troop,,R,-14.86
+,1/6/2020,1 AAA MC 9228 US Bank,,Meijer,55432860004200543427679; 05411;,Food:Groceries,,R,-27.34
+,1/6/2020,1 AAA MC 9228 US Bank,,La Marsa Troy,55432860005200744037144; 05812;,Food:Outside Home,,R,-42.20
+,1/9/2020,1 AAA MC 9228 US Bank,,Lukich's Family Dining Inc,05227020008300227948841; 05812;,Food:Outside Home,,R,-21.33
+,1/10/2020,1 AAA MC 9228 US Bank,,Aaa Financial VISA,Test of new Bill Pay option,[Fidelity Cash Mgmt],,R,2.00
+,1/13/2020,1 AAA MC 9228 US Bank,S,Meijer,55432860011200256649338; 05411;,--Split--,--Split--,R,-120.28
+,1/14/2020,1 AAA MC 9228 US Bank,,Sq Salon Haircent,55432860013200734946221; 07230;,Haircut,,R,-26.00
+,1/16/2020,1 AAA MC 9228 US Bank,,Meijer,55432860015200177231451; 05411;,Food:Groceries,,R,-73.82
+,1/17/2020,1 AAA MC 9228 US Bank,,Gerotech Tel,85185640016703165948375; 05046;,Charity:I 3 Cooperative,,R,-425.00
+,1/21/2020,1 AAA MC 9228 US Bank,,Kroger,05436840020300227433036; 05411;,Food:Groceries,,R,-11.04
+,1/23/2020,1 AAA MC 9228 US Bank,,Lukich's Family Dining Inc,05227020022300229476801; 05812;,Food:Outside Home,,R,-21.61
+,1/23/2020,1 AAA MC 9228 US Bank,,Gallant Auto Service,55309590022206000000017; 07538;,Auto:Maintenance,,R,-35.18
+,1/24/2020,1 AAA MC 9228 US Bank,,Patel Brothers Inc,02305370023200067434112; 05411;,Food:Groceries,,R,-2.99
+,1/27/2020,1 AAA MC 9228 US Bank,,Meijer,55432860025200606378079; 05411;,Food:Groceries,,R,-21.05
+,1/27/2020,1 AAA MC 9228 US Bank,,Bangkok Cuisine 1,55546500026400823000043; 05812;,Food:Outside Home,,R,-33.56
+,1/29/2020,1 AAA MC 9228 US Bank,,Belle Tire Troy,55420360028630193432859; 05532;,Auto:Maintenance,,R,-84.99
+,1/30/2020,1 AAA MC 9228 US Bank,S,Meijer,55432860029200543885562; 05411;,--Split--,--Split--,R,-139.48
+,2/3/2020,1 AAA MC 9228 US Bank,,AAA Acg M/C US Bank,Trans # xxxxxxx Due 2/12/2020,[InT 14-32 Chking],,R,863.82
+,2/3/2020,1 AAA MC 9228 US Bank,,Meijer,05436840031100047955219; 05542;,Auto:Fuel,,R,-2.51
+,2/3/2020,1 AAA MC 9228 US Bank,,Kroger,05436840033300256018620; 05411;,Food:Groceries,,R,-8.28
+,2/5/2020,1 AAA MC 9228 US Bank,,Green Lantern Pizza,75326810035900012800117; 05812;,Food:Outside Home,,R,-19.03
+,2/6/2020,1 AAA MC 9228 US Bank,,Aldi,05140480036710034887220; 05411;,Pet Care,,R,-60.93
+,2/7/2020,1 AAA MC 9228 US Bank,S,Meijer,55432860037200546190069; 05411;,--Split--,--Split--,R,-44.00
+,2/10/2020,1 AAA MC 9228 US Bank,,Kroger,05436840039300225031948; 05411;,Food:Groceries,,R,-6.88
+,2/10/2020,1 AAA MC 9228 US Bank,,Petsmart,55263520041091010822016; 05995;,Pet Care,,R,-10.11
+,2/10/2020,1 AAA MC 9228 US Bank,,Kroger,05436840038300223904691; 05411;,Food:Groceries,,R,-16.27
+,2/10/2020,1 AAA MC 9228 US Bank,,Office Max,02305370039100090177989; 05943;,Charity:Scouts Crew & Troop,,R,-22.77
+,2/11/2020,1 AAA MC 9228 US Bank,,Salon Haircentrix Troy,55432860041200549122097; 07230;,Haircut,,R,-20.00
+,2/13/2020,1 AAA MC 9228 US Bank,,Aaa,00000;,Auto:Maintenance,,c,0.13
+,2/18/2020,1 AAA MC 9228 US Bank,,Meijer,55432860045200501877254; 05411;,Household:Decorating,,c,-128.50
+,2/19/2020,1 AAA MC 9228 US Bank,,Market Work,55309590050091100001072; 05814;,Food:Groceries,,c,-6.21
+,2/19/2020,1 AAA MC 9228 US Bank,,Meijer,55432860049200465203048; 05411;,Household:Decorating,,c,-27.13
+,2/20/2020,1 AAA MC 9228 US Bank,,Lukich's Family Dining Inc,05227020050300237671299; 05812;,,,c,-23.45
+,2/21/2020,1 AAA MC 9228 US Bank,,Meijer,55432860051200950116627; 05411;,Household:Decorating,,c,-8.85
+,2/24/2020,1 AAA MC 9228 US Bank,,Market Work,55309590055091100000087; 05814;,Food:Groceries,,c,-1.79
+,2/24/2020,1 AAA MC 9228 US Bank,,Kroger,05436840053300232785560; 05542;,Food:Groceries,,c,-2.17
+,2/24/2020,1 AAA MC 9228 US Bank,,Patel Brothers Inc,02305370053200072558528; 05411;,Food:Groceries,,c,-3.99
+,2/24/2020,1 AAA MC 9228 US Bank,,Petsmart,55263520053091013470016; 05995;,Pet Care,,c,-20.22
+,2/24/2020,1 AAA MC 9228 US Bank,,Gallant Auto Service,55309590052206000000028; 07538;,Auto:Maintenance,,c,-505.16
+,2/25/2020,1 AAA MC 9228 US Bank,,Kroger,05436840055300215472754; 05542;,Food:Groceries,,c,-2.81
+,2/26/2020,1 AAA MC 9228 US Bank,,Kroger,05436840056300226021458; 05411;,Food:Groceries,,c,-7.38
+,2/28/2020,1 AAA MC 9228 US Bank,,Meijer,55432860058200688833587; 05411;,Household:Decorating,,c,-152.17
+,3/2/2020,1 AAA MC 9228 US Bank,,Aaa Financial VISA,Trans #xxxxxxx March Envelope,[Fidelity Cash Mgmt],,R,"1,085.50"
+,3/2/2020,1 AAA MC 9228 US Bank,,Usconnect Crpdn Vend,25247800061000044247889; 05814;,,,c,-1.75
+,3/5/2020,1 AAA MC 9228 US Bank,,Lukich's Family Dining Inc,05227020064300244166501; 05812;,,,c,-23.45
+,3/9/2020,1 AAA MC 9228 US Bank,,Meijer,55432860067200123795176; 05411;,Household:Decorating,,c,-10.58
+,3/9/2020,1 AAA MC 9228 US Bank,,Office Max,02305370067100094910844; 05943;,Charity:Scouts Crew & Troop,,c,-11.65
+,3/9/2020,1 AAA MC 9228 US Bank,,Meijer,55432860067200123795168; 05411;,Household:Decorating,,c,-34.48
+,3/9/2020,1 AAA MC 9228 US Bank,,Meijer,55432860067200124632337; 05411;,Household:Decorating,,c,-116.21
+,3/10/2020,1 AAA MC 9228 US Bank,,Salon Haircentrix Troy,55432860069200632404227; 07230;,,,c,-32.00
+,3/10/2020,1 AAA MC 9228 US Bank,,North Main Animal Hospital Pc,55436870070120707715798; 00742;,,,c,-101.92
+,3/11/2020,1 AAA MC 9228 US Bank,,Annual Membership Fee,00000;,,,c,0.00
+,3/11/2020,1 AAA MC 9228 US Bank,,Kroger,05436840070300225854075; 05542;,Food:Groceries,,c,-7.44
+,3/12/2020,1 AAA MC 9228 US Bank,,Aaa,00000;,Auto:Maintenance,,c,0.62
+,3/12/2020,1 AAA MC 9228 US Bank,,Pilot Travel Center,05410190071210007271050; 05542;,Estate,,c,-25.42
+,3/12/2020,1 AAA MC 9228 US Bank,,Meijer,55432860071200079750856; 05411;,Household:Decorating,,c,-26.62
+,3/12/2020,1 AAA MC 9228 US Bank,,O'charley's,05436840072500156384764; 05812;,BGK Estate:Estate Travel & Mtg Support,,c,-36.12
+,3/13/2020,1 AAA MC 9228 US Bank,,Murphy Express,55309590072838000601177; 05542;,Auto:Fuel,,c,-16.36
+,3/13/2020,1 AAA MC 9228 US Bank,,Frischs Big Boy,05436840073000388585022; 05812;,,,c,-27.85
+,3/16/2020,1 AAA MC 9228 US Bank,,Meijer,05436840074200046561360; 05542;,Household:Decorating,,c,-5.70
+,3/16/2020,1 AAA MC 9228 US Bank,,Starbucks,55432860074200809141035; 05814;,Child,,c,-6.05
+,3/16/2020,1 AAA MC 9228 US Bank,,Starbucks,55432860074200808850222; 05814;,Child,,c,-6.41
+,3/16/2020,1 AAA MC 9228 US Bank,,Speedway,02305370074000719164564; 05542;,Auto:Fuel,,c,-11.84
+,3/16/2020,1 AAA MC 9228 US Bank,,Kroger,05436840073300299073567; 05542;,Food:Groceries,,c,-19.55
+,3/16/2020,1 AAA MC 9228 US Bank,,Surestay Plus Hotel,55432860074200855144016; 07011; FOLIO: 032012,,,c,-73.11
+,3/16/2020,1 AAA MC 9228 US Bank,,Best Western,55500800073722620365935; 03502; FOLIO: 209012,Gifts,,c,-94.96
+,3/17/2020,1 AAA MC 9228 US Bank,,Meijer,55432860076200275832289; 05411;,Household:Decorating,,c,-157.68
+,3/26/2020,1 AAA MC 9228 US Bank,,Ridley Bakery Cafe,85434910085980000365393; 05812;,,,c,-13.74
+,3/26/2020,1 AAA MC 9228 US Bank,,CVS Pharmacy,02305370086000380117970; 05912;,Medical:HAP Q4 2014,,c,-21.00
+,3/26/2020,1 AAA MC 9228 US Bank,,Meijer,55432860085200221683579; 05411;,Household:Decorating,,c,-190.82
+,3/30/2020,1 AAA MC 9228 US Bank,,Meijer,55432860087200642935101; 05411;,Household:Decorating,,c,-27.01
+,3/30/2020,1 AAA MC 9228 US Bank,,Meijer,55432860088200865976880; 05411;,Household:Decorating,,c,-128.80
+,4/1/2020,1 AAA MC 9228 US Bank,,Petsmart,55263520092091011417012; 05995;,Pet Care,,c,-67.83
+,4/1/2020,1 AAA MC 9228 US Bank,,North Main Animal Hospital Pc,55436870092120920074381; 00742;,,,c,-92.26
+,4/2/2020,1 AAA MC 9228 US Bank,,Aaa Financial VISA,Trans #xxxxxxx Due 4/9/2020,[Fidelity Cash Mgmt],,,"1,229.18"
+,4/2/2020,1 AAA MC 9228 US Bank,,Aldi,05140480092710025715324; 05411;,Food:Groceries,,c,-50.77
+,4/2/2020,1 AAA MC 9228 US Bank,,Meijer,55432860092200657942516; 05411;,Household:Decorating,,c,-122.19
+,4/13/2020,1 AAA MC 9228 US Bank,,Aaa,00000;,Auto:Maintenance,,,3.94
+,5/4/2020,1 AAA MC 9228 US Bank,,AAA M/C ACG w US Bank,Trans # xxxxxxxxxx    Due 5/09/2020,[Fidelity Cash Mgmt],,,"1,221.47"
+,1/1/2020,2 GM MC 5064 Capital One,,LTF*LIFE Time Mo Dues,LTF*LIFE TIME MO DUES,Mad Money:Dave's Mad,,R,-77.00
+,1/5/2020,2 GM MC 5064 Capital One,,Aclu,ACLU,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Detroit Rescue Mission Ministries,DETROIT RESCUE MISSION,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Dptv Pbs,DPTV DETROIT PBS,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Edf,EDF,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Feeding America,FEEDING AMERICA,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Forgotten Harvest,FORGOTTEN HARVEST,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Heifer International,HEIFER INTERNATIONAL,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Lighthouse Mi,LIGHTHOUSE MI,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Michigan Radio,Michigan Radio,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Naacp Ldf,NAACP LDF,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Nature Conservancy,NATURE CONSERVANCY,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Oxfam,OXFAM xxxxxxxxxxx6,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Planned Parenthood Fed,PLANNED PARENTHOOD FED,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Sierra Club,SIERRA CLUB,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Splc Donation,SPLC DONATION,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Union Cncd Scientists,UNION CNCD SCIENTISTS,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Wrcj Fm,WRCJ 90.9 FM,Charity:Cash Contrib.,,R,-100.00
+,1/5/2020,2 GM MC 5064 Capital One,,Wildonesnat,PAYPAL *WILDONESNAT,Charity:Cash Contrib.,,R,-102.56
+,1/6/2020,2 GM MC 5064 Capital One,,Amazon.com,Amazon.com*JL42301X3,Clothing,,R,-28.60
+,1/6/2020,2 GM MC 5064 Capital One,,Berea Col Edonation,BEREA COL EDONATION,Charity:Cash Contrib.,,R,-50.00
+,1/6/2020,2 GM MC 5064 Capital One,,Wikipedia,8776009454 WIKIPEDIA,Charity:Cash Contrib.,,R,-50.00
+,1/6/2020,2 GM MC 5064 Capital One,,Dwb Doctors W,DWB*DOCTORS W/O BORDER,Charity:Cash Contrib.,,R,-100.00
+,1/6/2020,2 GM MC 5064 Capital One,,Wep Wpy Propublica,WPY*WEP*WPY*ProPublica,Charity:Cash Contrib.,,R,-100.00
+,1/8/2020,2 GM MC 5064 Capital One,,Amazon.com,Amazon Subsc*1081Z0UH3,Subscriptions,,R,-3.99
+,1/10/2020,2 GM MC 5064 Capital One,,Gm Mastercard,Trans #xxxxxx 1/17/2020,[InT 14-32 Chking],,R,"1,151.51"
+,1/10/2020,2 GM MC 5064 Capital One,,Costco,WWW COSTCO COM,Medical:Priority Health ACA,,R,-153.68
+,1/13/2020,2 GM MC 5064 Capital One,,GM ACG Capital M/C,Trans # PX678-KY384 Test of new Bill Pay option,[Fidelity Cash Mgmt],,R,2.50
+,1/13/2020,2 GM MC 5064 Capital One,,New York Times,NEW YORK TIMES DIGITAL,Subscriptions,,R,-4.00
+,1/13/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*3O5P05SW3,Clothing,,R,-28.60
+,1/13/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*170WY1MP3,Clothing,,R,-93.69
+,1/16/2020,2 GM MC 5064 Capital One,,Mcc Bsa Ecomm,MCC BSA - ECOMM,Charity:Scouts Crew & Troop,,R,-10.28
+,1/18/2020,2 GM MC 5064 Capital One,,Bluetwin,PAYPAL *BLUETWIN,Mad Money:Karen's Mad,,R,-34.35
+,1/24/2020,2 GM MC 5064 Capital One,,Office Max,OFFICEMAX/OFFICEDEPT#6,Household:Supplies,,R,-81.60
+,1/27/2020,2 GM MC 5064 Capital One,,Amazon.com,AMAZON.COM*OJ1QT1BC3 A,Mad Money:Dave's Mad,,R,-22.62
+,1/27/2020,2 GM MC 5064 Capital One,,Life Time Prod,LIFE TIME PROD & SERV,Mad Money:Dave's Mad,,R,-212.00
+,1/28/2020,2 GM MC 5064 Capital One,,Mcc Bsa Ecomm,MCC BSA - ECOMM,Charity:Scouts Crew & Troop,,R,-20.55
+,1/30/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US,Clothing,,R,93.69
+,1/31/2020,2 GM MC 5064 Capital One,,Land's End,PAYPAL *LANDSENDINC,Clothing,,R,-90.85
+,2/1/2020,2 GM MC 5064 Capital One,,LTF*LIFE Time Mo Dues,LTF*LIFE TIME MO DUES,Mad Money:Dave's Mad,,R,-77.00
+,2/7/2020,2 GM MC 5064 Capital One,,The GM Mastercard,Trans # xxxxxxx Due 2/15/2020,[Fidelity Cash Mgmt],,R,"2,786.24"
+,2/8/2020,2 GM MC 5064 Capital One,,Amazon.com,Amazon Subsc*LV29Y2H33,Subscriptions,,R,-3.99
+,2/8/2020,2 GM MC 5064 Capital One,,Sarahsfabri,PAYPAL *SARAHSFABRI,Mad Money:Karen's Mad,,R,-106.71
+,2/8/2020,2 GM MC 5064 Capital One,,Rei,REI.COM,Clothing,,R,-132.50
+,2/10/2020,2 GM MC 5064 Capital One,,New York Times,NEW YORK TIMES DIGITAL,Subscriptions,,R,-4.00
+,2/12/2020,2 GM MC 5064 Capital One,,Quilter Studio,QUILTER STUDIO,Mad Money:Karen's Mad,,R,-53.70
+,2/14/2020,2 GM MC 5064 Capital One,,Rei,REI.COM,Clothing,,R,-132.50
+,2/18/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*6S5OG6ZP3,Household:Supplies,,R,-25.79
+,2/20/2020,2 GM MC 5064 Capital One,,Rei,REI #66 TROY,Clothing,,c,132.50
+,2/28/2020,2 GM MC 5064 Capital One,,Life Time Prod,LIFE TIME PROD & SERV,Mad Money:Dave's Mad,,c,-212.00
+,3/1/2020,2 GM MC 5064 Capital One,,LTF*LIFE Time Mo Dues,LTF*LIFE TIME MO DUES,Mad Money:Dave's Mad,,c,-77.00
+,3/8/2020,2 GM MC 5064 Capital One,,Amazon.com,Amazon Subsc*TH8WU2GZ3,Subscriptions,,c,-3.99
+,3/9/2020,2 GM MC 5064 Capital One,,New York Times,NEW YORK TIMES DIGITAL,Subscriptions,,c,-4.00
+,3/9/2020,2 GM MC 5064 Capital One,,Amazon,Foam Base Wrap AMZN Mktp US*LA5B42QK3,Charity:Scouts Crew & Troop,,c,-18.22
+,3/9/2020,2 GM MC 5064 Capital One,,Amazon,"Box of 2"" Adhesive Tape AMZN Mktp US*4X9OW2F13",Charity:Scouts Crew & Troop,,c,-54.86
+,3/10/2020,2 GM MC 5064 Capital One,,Gm Mastercard,Trans # xxxxxxx Due 3/17/2020,[Fidelity Cash Mgmt],,R,870.12
+,3/16/2020,2 GM MC 5064 Capital One,,Quicken,QUICKEN INC,Household:Supplies,,c,-63.59
+,3/18/2020,2 GM MC 5064 Capital One,S,Ace Hardware,PAYPAL *ACEHARDWARE,--Split--,--Split--,c,-31.79
+,3/19/2020,2 GM MC 5064 Capital One,,Meijer,They pick out MEIJER # 034,Food:Groceries,,c,-51.13
+,3/20/2020,2 GM MC 5064 Capital One,,Ridleys Ba Ridleys,RIDLEYS BA* RIDLEYS BA,Food:Groceries,,c,-18.15
+,3/24/2020,2 GM MC 5064 Capital One,,Noga Associate,SQ *NOGA AND ASSOCIATE,,,c,-155.00
+,3/25/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*J31UZ1IF3,Gifts,,c,-10.44
+,3/26/2020,2 GM MC 5064 Capital One,,Tringali Sanitation,TRINGALI SANITATION,Utilities,,c,-108.10
+,3/29/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*D659V59M3,Gifts,,c,-8.43
+,3/29/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*F34FB60N3,Gifts,,c,-9.52
+,4/1/2020,2 GM MC 5064 Capital One,,Noga Associate,SQ *NOGA AND ASSOCIATE,,,c,-155.00
+,4/3/2020,2 GM MC 5064 Capital One,,Petsmart,PETSMART # 1637,Pet Care,,c,-33.73
+,4/5/2020,2 GM MC 5064 Capital One,,Shipt Shipt Monthly,SHIPT SHIPT* MONTHLY M,Food:Groceries,,c,-14.00
+,4/6/2020,2 GM MC 5064 Capital One,,Nytimes,NYTIMES,,,c,-4.00
+,4/8/2020,2 GM MC 5064 Capital One,,Amazon.com,Amazon Subsc*NN0F62CR3,Gifts,,c,-3.99
+,4/8/2020,2 GM MC 5064 Capital One,,Noga Associate,SQ *NOGA AND ASSOCIATE,,,c,-155.00
+,4/10/2020,2 GM MC 5064 Capital One,,Gm Mastercard,Trans #xxxxxxxxx   Due 4/117/2020,[Fidelity Cash Mgmt],,,384.08
+,4/13/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*7A9BT9723,Gifts,,c,"-1,059.99"
+,4/15/2020,2 GM MC 5064 Capital One,,Noga Associate,SQ *NOGA AND ASSOCIATE,,,c,-155.00
+,4/16/2020,2 GM MC 5064 Capital One,,Amazon.com,Amazon.com*P98R97923,Gifts,,c,-27.20
+,4/16/2020,2 GM MC 5064 Capital One,,Green Lantern Pizza,GREEN LANTERN PIZZA,,,c,-34.26
+,4/19/2020,2 GM MC 5064 Capital One,,Amazon,AMZN Mktp US*HU9724GU3,Gifts,,c,-63.39
+,5/8/2020,2 GM MC 5064 Capital One,,Gm Mastercard,Trans #XXXXXXX   Due 5/17/2020,[Fidelity Cash Mgmt],,,"2,015.20"
+,3/22/2020,3 Fidelity VISA 2194 US Bank,,Opening Balance,,[3 Fidelity VISA 2194 US Bank],,R,-352.69
+,3/23/2020,3 Fidelity VISA 2194 US Bank,,CVS Pharmacy,24137460082000761393027; 05912; 7850;,Medical:HAP Q4 2014,,c,-16.88
+,4/6/2020,3 Fidelity VISA 2194 US Bank,,Costco Gas,24431060095898030082701; 05542;,,,c,-10.25
+,4/8/2020,3 Fidelity VISA 2194 US Bank,,Thank You Fg,FG 96000000; 00000;,,,c,352.69
+,4/13/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160101100657072865; 05411;,Household:Decorating,,c,-54.52
+,4/13/2020,3 Fidelity VISA 2194 US Bank,,Kroger,24445710101300259953973; 05411;,Food:Groceries,,c,-57.98
+,4/13/2020,3 Fidelity VISA 2194 US Bank,,Hawthorn Suites,24323040103221300010273; 07011; FOLIO: 309877,,,c,"-1,241.81"
+,4/16/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160106100400998908; 05411;,Household:Decorating,,c,-201.92
+,4/22/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160112100974751412; 05411;,Household:Decorating,,c,-169.30
+,4/27/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160116100397411574; 05411;,Household:Decorating,,c,-16.26
+,4/27/2020,3 Fidelity VISA 2194 US Bank,,Oaxaca Inc,24223690117030041781697; 05812;,,,c,-28.04
+,4/27/2020,3 Fidelity VISA 2194 US Bank,,Costco,24431060116898002031509; 05300;,Medical:Priority Health ACA,,c,-54.47
+,4/27/2020,3 Fidelity VISA 2194 US Bank,,Costco,24431060116898000912700; 05912;,Medical:Priority Health ACA,,c,-84.00
+,5/1/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160121100356808276; 05411;,Household:Decorating,,c,-238.92
+,5/4/2020,3 Fidelity VISA 2194 US Bank,,Aldi,24427330123710036409433; 05411;,Food:Groceries,,c,-60.93
+,5/7/2020,3 Fidelity VISA 2194 US Bank,,Fabric Affair,24707800127027015649619; 05949;,Gifts,,c,-10.59
+,5/7/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160127100342796696; 05411;,Household:Decorating,,c,-180.80
+,5/8/2020,3 Fidelity VISA 2194 US Bank,,Fidelity Investments - VISA,Trans #xxxxxxxx Due 5/15/2020,[Fidelity Cash Mgmt],,,"1,583.36"
+,5/11/2020,3 Fidelity VISA 2194 US Bank,,Costco,24431060131898000948218; 05912;,Medical:Priority Health ACA,,c,-3.00
+,5/11/2020,3 Fidelity VISA 2194 US Bank,,Costco,24431060131898002041020; 05300;,Medical:Priority Health ACA,,c,-13.98
+,5/11/2020,3 Fidelity VISA 2194 US Bank,,Costco Gas,24431060131898090120132; 05542;,,,c,-14.63
+,5/13/2020,3 Fidelity VISA 2194 US Bank,,Meijer,24692160133100115319637; 05411;,Household:Decorating,,c,-150.71
+,1/6/2020,x Fidelity Visa 7850,,Costco Gas,24431060004898140836921; 05542;,Auto:Fuel,,R,-29.07
+,1/8/2020,x Fidelity Visa 7850,,Fidelity Investments - VISA,Trans #xxxxxxxxx due 1/15/2020,[InT 14-32 Chking],,R,683.72
+,1/8/2020,x Fidelity Visa 7850,,Meijer,24692160007100830111411; 05411;,Food:Groceries,,R,-20.47
+,1/8/2020,x Fidelity Visa 7850,,Aldi,24427330007710034192040; 05411;,Food:Groceries,,R,-51.76
+,1/9/2020,x Fidelity Visa 7850,,Costco,24431060009898000915349; 05912;,Medical:Priority Health ACA,,R,-21.00
+,1/10/2020,x Fidelity Visa 7850,,Fidelity Investments - VISA,Trans # PX678-GCSRK Test of new Bill Pay option,[Fidelity Cash Mgmt],,R,2.75
+,1/15/2020,x Fidelity Visa 7850,,Costco,24431060015898002328386; 05300;,Food:Outside Home,,R,-1.59
+,1/15/2020,x Fidelity Visa 7850,,Costco Gas,24431060015898070932036; 05542;,Auto:Fuel,,R,-29.48
+,1/15/2020,x Fidelity Visa 7850,,Costco,24431060015898002056540; 05300;,Food:Groceries,,R,-39.94
+,1/15/2020,x Fidelity Visa 7850,,Lowe's,24692160014100306156107; 05200;,Household:Supplies,,R,-42.36
+,1/15/2020,x Fidelity Visa 7850,,Costco,24431060015898000918949; 05912;,Medical:Medicare-Medigap & Rx,,R,-540.00
+,1/17/2020,x Fidelity Visa 7850,,Costco,24431060017898000939067; 05912;,Medical:Medicare-Medigap & Rx,,R,-6.77
+,1/23/2020,x Fidelity Visa 7850,,Costco,24431060023898000916018; 05912;,Medical:Medicare-Medigap & Rx,,R,-17.57
+,1/23/2020,x Fidelity Visa 7850,,Costco Gas,24431060023898110913343; 05542;,Auto:Fuel,,R,-28.40
+,1/28/2020,x Fidelity Visa 7850,,Primary Eye Care,24323000027206076300179; 08043;,Medical:Un-reimbursed,,R,-40.00
+,1/30/2020,x Fidelity Visa 7850,,Barnes & Noble,24137460029100152746803; 05942;,Household:Supplies,,R,-18.01
+,1/31/2020,x Fidelity Visa 7850,S,Ace Hardware,24765010031091006878793; 05251;,--Split--,--Split--,R,-11.40
+,1/31/2020,x Fidelity Visa 7850,,Costco Gas,24431060031898050976599; 05542;,Auto:Fuel,,R,-30.84
+,2/3/2020,x Fidelity Visa 7850,,Lowe's,24692160031100040631075; 05200;,Household:Improvement,,R,-6.77
+,2/5/2020,x Fidelity Visa 7850,,Meijer,24692160035100552846182; 05411;,Food:Groceries,,R,-39.90
+,2/5/2020,x Fidelity Visa 7850,,North Main Animal Hospital Pc,24755420036120368161312; 00742;,Pet Care,,R,-92.52
+,2/7/2020,x Fidelity Visa 7850,,Fidelity Investments - VISA,Trans # xxxxxxxx Due 2/10/2020,[InT 14-32 Chking],,R,"1,068.96"
+,2/7/2020,x Fidelity Visa 7850,S,Costco,24431060038898000917472; 05912;,--Split--,--Split--,R,-6.95
+,2/10/2020,x Fidelity Visa 7850,,Costco Gas,24431060040898130922562; 05542;,Auto:Fuel,,R,-29.21
+,2/11/2020,x Fidelity Visa 7850,,Costco Gas,24431060042898100929553; 05542;,Auto:Fuel,,R,-26.44
+,2/18/2020,x Fidelity Visa 7850,S,Costco,24431060049898000949985; 05912;,--Split--,--Split--,R,-10.06
+,2/18/2020,x Fidelity Visa 7850,,Fabric Affair,24071050045627184902662; 05949;,Mad Money:Karen's Mad,,R,-31.79
+,2/18/2020,x Fidelity Visa 7850,,Costco,24431060046898002039754; 05300;,Food:Groceries,,R,-36.93
+,2/18/2020,x Fidelity Visa 7850,,Lowe's,24692160045100177757820; 05200;,Household:Supplies,,R,-195.53
+,2/19/2020,x Fidelity Visa 7850,,2nd Street Quilt,24692160049100778495354; 05949;,,,c,-23.77
+,2/21/2020,x Fidelity Visa 7850,,Costco,24431060052898000917507; 05912;,Medical:Priority Health ACA,,c,-5.22
+,2/21/2020,x Fidelity Visa 7850,,North Main Animal Hospital Pc,24755420052120525453916; 00742;,,,c,-46.52
+,2/24/2020,x Fidelity Visa 7850,,Costco Gas,24431060055898070013028; 05542;,,,c,-16.25
+,2/28/2020,x Fidelity Visa 7850,,Costco Gas,24431060059898120932983; 05542;,,,c,-28.79
+,3/2/2020,x Fidelity Visa 7850,,Costco,24431060060898002321880; 05300;,Medical:Priority Health ACA,,c,-1.59
+,3/2/2020,x Fidelity Visa 7850,,Costco,24431060060898002018049; 05300;,Medical:Priority Health ACA,,c,-3.29
+,3/2/2020,x Fidelity Visa 7850,,Kroger,24445710061300400956600; 05411;,Food:Groceries,,c,-5.28
+,3/2/2020,x Fidelity Visa 7850,S,Ace Hardware,24765010062091006988297; 05251;,--Split--,--Split--,c,-21.47
+,3/2/2020,x Fidelity Visa 7850,,Costco Gas,24431060060898130961466; 05542;,,,c,-21.84
+,3/4/2020,x Fidelity Visa 7850,,Costco,24431060064898000931702; 05912;,Medical:Priority Health ACA,,c,-6.29
+,3/6/2020,x Fidelity Visa 7850,,Fidelity Investments - VISA,Trans #xxxxxxx due 2/12/11,[Fidelity Cash Mgmt],,R,629.09
+,3/6/2020,x Fidelity Visa 7850,,Aldi,24427330065710038862365; 05411;,Food:Groceries,,c,-55.49
+,3/6/2020,x Fidelity Visa 7850,,Tortoise & The Hair Ltd,24013390065000700432604; 07230;,,,c,-65.00
+,3/9/2020,x Fidelity Visa 7850,,Costco Gas,24431060069898130980285; 05542;,,,c,-27.22
+,3/11/2020,x Fidelity Visa 7850,,Costco,24431060071898000075428; 05300;,Medical:Priority Health ACA,,c,-24.67
+,4/8/2020,x Fidelity Visa 7850,,Fidelity Investments - VISA,Trans # xxxxxxxxx Due 4/15/2020,[Fidelity Cash Mgmt],,,352.69
+,1/6/2020,Fidelity DEK Rollover IRA Managed,ContribX,Various Monies Close out to Managed,,[Fidelity DEK Rollover IRA Non-Managed],,,137.73
+,1/24/2020,Fidelity DEK Rollover IRA Managed,WithdrwX,Monthly,,[InT 14-32 Chking],,,"-4,000.00"
+,2/26/2020,Fidelity DEK Rollover IRA Managed,WithdrwX,Fidelity Monthly Living,2/1/2020,[Fidelity Cash Mgmt],,,"-4,000.00"
+,3/14/2020,Fidelity DEK Rollover IRA Managed,WithdrwX,Various Monies,Coverage for Auto Loan,[Fidelity Cash Mgmt],,,"-18,000.00"
+,3/26/2020,Fidelity DEK Rollover IRA Managed,WithdrwX,Fidelity Monthly Living,,[Fidelity Cash Mgmt],,,"-4,000.00"
+,4/25/2020,Fidelity DEK Rollover IRA Managed,WithdrwX,Fidelity Monthly Living,Current annuity type distribution,[Fidelity Cash Mgmt],,,"-4,000.00"
+,1/3/2020,Fidelity DEK Rollover IRA Non-Managed,XOut,Fund 014-30 with Fidelity Balance,,[InT 14-32 Chking],,,-0.09
+,1/6/2020,Fidelity DEK Rollover IRA Non-Managed,XOut,Various Monies Close out to Managed,,[Fidelity DEK Rollover IRA Managed],,,-137.73
+,1/1/2020 - 5/25/2020,,,,,,,,"-5,665.05"
+,,,,,,,,,
+,BALANCE 5/25/2020,,,,,,,,"178,069.59"
+,,,,,,,,,
+,TOTAL INFLOWS,,,,,,,,"131,095.64"
+,,,,,,,,,
+,TOTAL OUTFLOWS,,,,,,,,"-136,760.69"
+,,,,,,,,,
+,NET TOTAL,,,,,,,,"-5,665.05"
