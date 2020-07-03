@@ -9,7 +9,7 @@ csvData =[]
 				# do stuff
 				# f.read()
 				# f.close()
-with open('Downloads/Quicken Transaction Data .txt', newline='') as csvFile:
+with open('Quicken Transaction Data .txt', newline='') as csvFile:
 	Transaction = csv.reader(csvFile)
 	for row in Transaction: 
 		#print(repr(row))
